@@ -1,2 +1,2 @@
 # test-git-squash
-This is Read me and another updated content
+This is Read me and updated content
